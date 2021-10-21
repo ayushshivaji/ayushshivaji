@@ -1,4 +1,4 @@
-# <p align="center"> Hi there 👋, I'm Ayush Srivastava </p>
+# <p> Hi there 👋, I'm Ayush Srivastava </p>
 </hr>
 
 ### <p align="center"> I'm a Student, Developer, Learner!!! </p>
