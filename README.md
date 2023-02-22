@@ -1,4 +1,4 @@
-# <p align="center"> Hi there 👋, I'm Ayush Srivastava <img height = 50 width= 50 align = center src = "https://github.com/ayushclashroyale/ayushclashroyale/blob/main/GiFs/kakashi_handsigns.gif?raw=true">
+# <p align="center"> Hi there 👋, I'm Ayush Srivastava <img height = 50 width= 50 align = center src = "https://github.com/ayushshivaji/ayushshivaji/blob/main/GiFs/kakashi_handsigns.gif?raw=true">
 </p>
 </hr>
 
@@ -12,11 +12,11 @@
 - ⚡ Fun fact: <b> FPS gaming and Tech Enthusiast </b>
 
 <p>
-    <img height=250 width = 500 src="https://github-readme-stats.vercel.app/api?username=ayushclashroyale&show_icons=true&theme=midnight-purple">
-   <img height = 530 width= 300 align = right src = "https://github.com/ayushclashroyale/ayushclashroyale/blob/main/GiFs/itachi-rain.gif?raw=true">
+    <img height=250 width = 500 src="https://github-readme-stats.vercel.app/api?username=ayushshivaji&show_icons=true&theme=midnight-purple">
+   <img height = 530 width= 300 align = right src = "https://github.com/ayushshivaji/ayushshivaji/blob/main/GiFs/itachi-rain.gif?raw=true">
   
 </p>
-<img height=250 src="https://github-readme-stats.vercel.app/api/top-langs/?username=ayushclashroyale&show_icons=true&theme=tokyonight"/>
+<img height=250 src="https://github-readme-stats.vercel.app/api/top-langs/?username=ayushshivaji&show_icons=true&theme=tokyonight"/>
 
 
 ## Connect With Me
