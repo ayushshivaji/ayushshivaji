@@ -8,7 +8,7 @@
 - 🌱 I’m currently learning <b> Ethical Hacking </b>
 - 👯 I’m looking to collaborate on <b> Python projects </b>
 - 💬 Ask me about <b>ethical hacking or anime</b>
-- 📫 How to reach me: <b>Connect to me via Email [Ayush Srivastava](mailto:1999.ayush.srivastava@gmail.com.com?subject=[GitHub]%20Source%20Han%20Sans)</b>
+- 📫 How to reach me: <b>Connect to me via Email [Ayush Srivastava](mailto:1999.ayush.srivastava@gmail.com?subject=[GitHub]%20Source%20Han%20Sans)</b>
 - ⚡ Fun fact: <b> FPS gaming and Tech Enthusiast </b>
 
 <p>
